@@ -1,0 +1,22 @@
+.create-0{
+  width: 95%;
+  margin: 0 auto;
+  border-radius: 5px;
+  background-color: #fff;
+  padding: 10px;
+}
+.create-1{
+  width: 200px;
+}
+.create-2{
+  resize:none;
+  margin-top: 10px;
+}
+.create-3{
+  background-color: #08c;
+  color: #fff;
+  width: 100px;
+  height: 50px;
+  margin-top: 10px;
+  border-radius: 5px;
+}
