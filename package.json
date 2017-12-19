@@ -2,7 +2,7 @@
   "name": "react-hello",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://lmoxiaobei.github.io/cnode",
+  "homepage": "http://Lmoxiaobei.github.io/cnode",
   "dependencies": {
     "axios": "^0.17.1",
     "package.json": "^2.0.1",
